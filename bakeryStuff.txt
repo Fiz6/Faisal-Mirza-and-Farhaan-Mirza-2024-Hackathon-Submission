@@ -1,0 +1,15 @@
+cookie
+farhaan bakery
+60
+29.99
+sugar:_:SPLIT:_:spice:_:SPLIT:_:everything nice:_:SPLIT:_:butter:_:SPLIT:_:chocolate chips:_:SPLIT:_:
+bread
+farhaan bakery
+500
+12.3
+flour:_:SPLIT:_:yeast:_:SPLIT:_:food coloring:_:SPLIT:_:eggs:_:SPLIT:_:
+doughnut
+FHS
+57
+13.54
+cream:_:SPLIT:_:flour:_:SPLIT:_:eggs:_:SPLIT:_:frosting:_:SPLIT:_:yeast:_:SPLIT:_:
